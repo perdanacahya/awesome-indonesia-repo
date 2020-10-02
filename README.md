@@ -76,6 +76,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [DraggableView](https://github.com/hyuwah/DraggableView) - Android library to easily make floating draggable view (like Tokopedia's lucky egg or Bukalapak's maudikode).
 - [Android Image Picker](https://github.com/WendyYanto/android-image-picker) - Non-blocking image gallery library built using kotlin and coroutine to help user to choose image (single or multi)
 - [TicTacToe](https://github.com/WendyYanto/android-tic-tac-toe) - Android tictactoe game built using kotlin
+- [SheenValidator](https://github.com/rizmaulana/SheenValidator) - Android library to make form validation easier
+- [SmartMarker](https://github.com/utsmannn/SmartMarker) - Smart helper for marker movement in Google Maps and Mapbox
 
 ## Awesome List
 
